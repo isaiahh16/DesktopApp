@@ -1,6 +1,6 @@
 # Github Desktop App
 
-makes it easier
+makes it easier. Adding some new stuff to get used to it.
 
 ## Contributing
 
